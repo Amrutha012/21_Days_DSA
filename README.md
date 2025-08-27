@@ -33,6 +33,23 @@ Every line of code teaches something, and I’m excited to continue this journey
 
 ---
 
+## 📅 Day 2 - Array Problems
+
+### ✅ Concepts Practiced:
+- Identifying unique elements
+- Finding missing numbers in sequences
+- Handling unsorted arrays
+- Two-pointer technique for pair sum
+
+### 🧠 Problems Solved:
+| File            | Problem Description                                      |
+|-----------------|----------------------------------------------------------|
+| `day2sum1.py`   | Print all **unique elements** from an array              |
+| `day2sum2.py`   | Find the **missing numbers** in a continuous sequence    |
+| `day2sum3.py`   | Find the **missing numbers** in an **unsorted array**    |
+| `day2sum4.py`   | Find a **pair of numbers** in an array equal to target   |
+
+
 ## 🚀 How to Run
 
 ```bash
