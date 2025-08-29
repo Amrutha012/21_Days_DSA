@@ -81,6 +81,29 @@ Learning to use Python dictionaries for frequency made my code much cleaner and 
 
 ---
 
+## 📅 Day 4 - Arrays: Alternate Elements
+
+### ✅ Concepts Learned:
+- Accessing **alternate elements** of an array  
+- Using the **`range()` function with step** to iterate selectively  
+- Strengthened understanding of **array indexing** and loops  
+
+### 🧠 Problems Solved:
+| File            | Problem Description                         |
+|-----------------|----------------------------------------------|
+| `day4sum1.py`   | Print **alternate elements** of an array starting from the first element |
+
+---
+
+## ✨ Reflection (Day 4)
+Today I learned how to **efficiently access alternate elements** using Python loops and the `range()` function.  
+
+It’s exciting to see how small tweaks in iteration logic can simplify a problem significantly.  
+I feel more confident in manipulating arrays and understanding index-based operations.  
+
+This practice also reminds me that **breaking problems into smaller steps** makes coding much easier and less error-prone.  
+I’m motivated to keep building my DSA skills for the upcoming days! 🚀
+
 ## 🚀 How to Run
 
 ```bash
@@ -95,3 +118,6 @@ python day3/intersection.py
 python day3/union.py
 python day3/union_intersection.py
 python day3/remove_common.py
+
+# Day 4
+python Day4/day4sum1.py
