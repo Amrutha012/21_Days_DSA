@@ -104,6 +104,36 @@ I feel more confident in manipulating arrays and understanding index-based opera
 This practice also reminds me that **breaking problems into smaller steps** makes coding much easier and less error-prone.  
 I’m motivated to keep building my DSA skills for the upcoming days! 🚀
 
+
+# 📅 Day 5 - Arrays: Leaders, Sorting, Subarrays, Rotations, and Zero Manipulation
+
+## ✅ Concepts Learned
+- Finding **leaders** in an array  
+- Checking if an array is **sorted**  
+- Removing **duplicates** from a sorted array  
+- Generating **all subarrays**  
+- **Reversing** an array  
+- Performing **left and right rotations**  
+- Moving **zeros to the end** without changing order  
+
+## 🧠 Problems Solved
+| File                  | Problem Description                         |
+|-----------------------|--------------------------------------------|
+| `leaders.py`          | Find all **leaders** in an array |
+| `check_sorted.py`     | Check if an array is **sorted ascending** |
+| `remove_duplicates.py`| Remove **duplicates** from a sorted array |
+| `subarrays.py`        | Generate and **print all subarrays** |
+| `reverse_array.py`    | **Reverse** an array |
+| `rotate_right.py`     | **Right rotate** an array by k steps |
+| `rotate_left.py`      | **Left rotate** an array by k steps |
+| `move_zeroes.py`      | Move all **zeroes to the end** |
+
+## ✨ Reflection (Day 5)
+Today I practiced **array manipulations** from GeeksforGeeks(https://www.geeksforgeeks.org/dsa/array-data-structure-guide/) to strengthen my understanding of indexing, loops, and element-wise operations.  
+
+Breaking problems into smaller steps made implementation easier.  
+Pushing these solutions to GitHub helps **track my progress** and **increase visibility**. 🚀  
+
 ## 🚀 How to Run
 
 ```bash
@@ -121,3 +151,14 @@ python day3/remove_common.py
 
 # Day 4
 python Day4/day4sum1.py
+
+# Day 5
+python Day5/leaders.py
+python Day5/check_sorted.py
+python Day5/remove_duplicates.py
+python Day5/subarrays.py
+python Day5/reverse_array.py
+python Day5/rotate_right.py
+python Day5/rotate_left.py
+python Day5/move_zeroes.py
+
