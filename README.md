@@ -156,6 +156,28 @@ I also worked on searching arrays and understood how the **for-else loop** can s
 
 Step by step, I feel more confident about solving problems systematically 🚀
 
+## 📅 Day 7 - Array Problems
+
+### ✅ Concepts Learned:
+- Calculating **minimum operations** to make all array elements equal using a given increment `k`
+- Understanding **modulo operations** and integer division in array problems
+- Checking for **duplicates within a certain distance** in an array
+- Practicing **nested loops** and **conditional checks** in arrays
+
+### 🧠 Problems Solved:
+| File            | Problem Description                         |
+|-----------------|----------------------------------------------|
+| `day7sum1.py`   | Minimum increment by `k` operations to make all elements equal |
+| `day7sum2.py`   | Check if a duplicate exists **within `k` distance** in an array |
+
+**✨ Reflection (Day 7)**
+
+Today I learned how modulo and integer division can help in counting operations efficiently.
+I also practiced the sliding window concept by checking duplicates within a limited distance, which is a useful pattern for future array problems.
+
+I feel more confident in breaking problems into small logical steps and writing clear, structured code. Looking forward to applying these concepts in upcoming challenges! 🚀
+
+---
 
 ## 🚀 How to Run
 
@@ -188,4 +210,9 @@ python Day5/move_zeroes.py
 # Day 6
 python Day6/day6sum1.py
 python Day6/day6sum2.py
+
+# Day 7
+python Day7/day7sum1.py
+python Day7/day7sum2.py
+
 
