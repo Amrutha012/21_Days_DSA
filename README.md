@@ -134,6 +134,29 @@ Today I practiced **array manipulations** from GeeksforGeeks(https://www.geeksfo
 Breaking problems into smaller steps made implementation easier.  
 Pushing these solutions to GitHub helps **track my progress** and **increase visibility**. 🚀  
 
+## 📅 Day 6 - Array Problems
+
+### ✅ Concepts Learned:
+- Counting **positive, negative, and zero** elements in an array  
+- Storing elements in separate lists based on conditions  
+- Finding the **first occurrence** of an element in an array  
+- Using Python’s **for-else loop** for searching  
+
+### 🧠 Problems Solved:
+| File              | Problem Description                                      |
+|-------------------|----------------------------------------------------------|
+| `day6sum1.py`     | Count **positive, negative, and zero** elements in array |
+| `day6sum2.py`     | Find the **index of the first occurrence** of an element |
+
+---
+
+## ✨ Reflection (Day 6)
+Today I practiced **categorizing elements** and learned to handle arrays by splitting them into positives, negatives, and zeros.  
+I also worked on searching arrays and understood how the **for-else loop** can simplify finding elements or returning `-1`.  
+
+Step by step, I feel more confident about solving problems systematically 🚀
+
+
 ## 🚀 How to Run
 
 ```bash
@@ -161,4 +184,8 @@ python Day5/reverse_array.py
 python Day5/rotate_right.py
 python Day5/rotate_left.py
 python Day5/move_zeroes.py
+
+# Day 6
+python Day6/day6sum1.py
+python Day6/day6sum2.py
 
