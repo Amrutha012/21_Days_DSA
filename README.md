@@ -179,6 +179,36 @@ I feel more confident in breaking problems into small logical steps and writing 
 
 ---
 
+## 📅 Day 8 - LeetCode Array Easy Problems
+
+### ✅ Concepts Learned:
+- Solving **array-based LeetCode Easy problems** using brute force and optimized approaches.
+- Practiced **nested loops**, **sorting**, and **condition checks** for problem-solving.
+- Applied **greedy logic** in stock profit problem.
+- Worked with **swapping elements** based on index conditions.
+
+### 🧠 Problems Solved:
+| File              | Problem Description                                      |
+|-------------------|----------------------------------------------------------|
+| `day8sum1.py`     | **Two Sum** – Find indices of two numbers that add up to a target |
+| `day8sum2.py`     | **Missing Number** – Find the missing number in a sorted sequence |
+| `day8sum3.py`     | **Contains Duplicate** – Check if an array contains duplicates |
+| `day8sum4.py`     | **Best Time to Buy and Sell Stock** – Max profit from one transaction |
+| `day8sum5.py`     | **Make Even Positions Greater** – Rearrange array so even indices have larger values |
+
+**✨ Reflection (Day 8)**
+
+Today I explored a variety of **LeetCode Easy Array problems**.  
+Each problem gave me a different perspective:
+- Two Sum taught me the importance of nested loops and how hashmaps could optimize.  
+- Missing Number strengthened my grasp on sorted arrays and edge cases.  
+- Contains Duplicate reinforced set/hash-based checking.  
+- Stock Profit problem showed me how greedy approaches minimize extra iterations.  
+- The even-odd rearrangement problem made me think about index-based conditions and swaps.  
+
+Overall, I’m starting to see recurring **patterns in array problems**, which will help me tackle harder problems in the future 🚀
+
+
 ## 🚀 How to Run
 
 ```bash
@@ -214,5 +244,13 @@ python Day6/day6sum2.py
 # Day 7
 python Day7/day7sum1.py
 python Day7/day7sum2.py
+
+# Day 8
+python Day8_Leetcode/day8sum1.py
+python Day8_Leetcode/day8sum2.py
+python Day8_Leetcode/day8sum3.py
+python Day8_Leetcode/day8sum4.py
+python Day8_Leetcode/day8sum5.py
+
 
 
