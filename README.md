@@ -208,6 +208,33 @@ Each problem gave me a different perspective:
 
 Overall, I’m starting to see recurring **patterns in array problems**, which will help me tackle harder problems in the future 🚀
 
+## 📅 Day 9 – Problem Solving Practice  
+
+### ✅ Concepts Learned:
+- Maximizing **profit** with multiple stock buy/sell transactions  
+- Using the **two-pointer technique** to optimize area problems  
+- Applying **bitwise XOR** to find a unique element efficiently  
+
+### 🧠 Problems Solved:
+| File                  | Problem Description                                |
+|-----------------------|----------------------------------------------------|
+| `stock_buy_sell.py`   | Find the maximum profit with multiple transactions |
+| `container_water.py`  | Find the max water container using two pointers    |
+| `unique_number.py`    | Find the unique number when others appear twice    |
+
+---
+
+## ✨ Reflection (Day 9)
+Today’s problems made me realize how **different techniques** (greedy approach, two pointers, bit manipulation) can simplify otherwise complex problems.  
+
+- The **stock buy/sell** problem showed me how adding up all upward price movements can maximize profit.  
+- The **container with most water** problem taught me how powerful the **two-pointer method** is compared to brute force.  
+- The **unique number** problem gave me insight into using **XOR** to cancel duplicates efficiently.  
+
+I feel more confident solving diverse problems and I’m excited to keep sharpening my problem-solving skills! 🚀  
+
+
+---
 
 ## 🚀 How to Run
 
@@ -251,6 +278,12 @@ python Day8_Leetcode/day8sum2.py
 python Day8_Leetcode/day8sum3.py
 python Day8_Leetcode/day8sum4.py
 python Day8_Leetcode/day8sum5.py
+
+# Day 9
+python Day9/day9sum1.py
+python Day9/day9sum2.py
+python Day/day9sum3.py
+
 
 
 
