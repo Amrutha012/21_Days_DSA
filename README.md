@@ -234,6 +234,33 @@ Today’s problems made me realize how **different techniques** (greedy approach
 I feel more confident solving diverse problems and I’m excited to keep sharpening my problem-solving skills! 🚀  
 
 
+## 📅 Day 10 - Arrays Self-Test
+
+### ✅ Concepts Practiced:
+- Finding the **second largest** element in an array (two methods)  
+- **Rotating** an array `k` steps to the right  
+- **Moving all zeros** to the end of an array  
+- Checking if an array is **sorted in decreasing order**  
+- **Reversing** an array without using extra space  
+
+### 🧠 Problems Solved:
+| File            | Problem Description                                      |
+|-----------------|-----------------------------------------------------------|
+| `day10sum1.py`  | Find the **second largest** element in an array (logic + sort) |
+| `day10sum2.py`  | Rotate an array `k` steps to the right                     |
+| `day10sum3.py`  | Move all zeros to the end of the array                     |
+| `day10sum4.py`  | Check if an array is sorted in decreasing order            |
+| `day10sum5.py`  | Reverse an array without using extra space                 |
+
+---
+
+## ✨ Reflection (Day 10)
+Today I decided to test my **array fundamentals** by solving a mix of problems without much guidance.  
+It helped me confirm that I can apply **loops, swaps, slicing, and condition checks** confidently.  
+
+This self-test boosted my confidence 💪 and proved that I’m ready to tackle **medium-level DSA problems** next! 🚀
+
+
 ---
 
 ## 🚀 How to Run
@@ -283,6 +310,13 @@ python Day8_Leetcode/day8sum5.py
 python Day9/day9sum1.py
 python Day9/day9sum2.py
 python Day/day9sum3.py
+
+# Day 10
+python Day10/day10sum1.py
+python Day10/day10sum2.py
+python Day10/day10sum3.py
+python Day10/day10sum4.py
+python Day10/day10sum5.py
 
 
 
